@@ -1,3 +1,15 @@
+# MOOC_Text_Editor
+## A simple text editor created under Coursera's Data structures: Measuring and Optimizing Performance.
+Features :
+
+* Autocompletion 
+
+* Error Detection and Correction
+
+* Flesh Readablity score calculation
+
+* Markov Text Generator
+
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
@@ -15,19 +27,6 @@
 /
 / Date: 10/29/2015
 /-------------------------------------------------------------------------
-
-----------------------------------------[Features]------------------------
-# MOOC_Text_Editor
-## A simple text editor created under Coursera's Data structures: Measuring and Optimizing Performance.
-### Features :
-
-* Autocompletion 
-
-* Error Detection and Correction
-
-* Flesh Readablity score calculation
-
-* Markov Text Generator
 
 ---------------------------------------------------------[ DESCRIPTION ]--
 
