@@ -17,16 +17,17 @@
 /-------------------------------------------------------------------------
 
 ----------------------------------------[Features]------------------------
-# MOOC_Text_Editor_
-A simple text editor created under Coursera's Data structures: Measuring and Optimizing Performance, features :
+# MOOC_Text_Editor
+## A simple text editor created under Coursera's Data structures: Measuring and Optimizing Performance.
+### Features :
 
-- Autocompletion 
+* Autocompletion 
 
-- Error Detection and Correction
+* Error Detection and Correction
 
-- Flesh Readablity score calculation
+* Flesh Readablity score calculation
 
-- Markov Text Generator
+* Markov Text Generator
 
 ---------------------------------------------------------[ DESCRIPTION ]--
 
