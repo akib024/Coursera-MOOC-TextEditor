@@ -16,6 +16,18 @@
 / Date: 10/29/2015
 /-------------------------------------------------------------------------
 
+----------------------------------------[Features]------------------------
+# MOOC_Text_Editor_
+A simple text editor created under Coursera's Data structures: Measuring and Optimizing Performance, features :
+
+- Autocompletion 
+
+- Error Detection and Correction
+
+- Flesh Readablity score calculation
+
+- Markov Text Generator
+
 ---------------------------------------------------------[ DESCRIPTION ]--
 
 The files provided are skeleton code, as well as grading previews and 
